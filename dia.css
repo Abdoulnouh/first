@@ -3,4 +3,6 @@ h1{
     font-weight: 300;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 25px;
+    text-decoration: underline;
+    text-align: center;
 }
